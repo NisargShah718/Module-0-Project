@@ -1,4 +1,4 @@
-# Week 0 Submission
+# TSP Data Science and AI Week 0 Submission
 
 ## Favourite GIF:
 <img src = "favourite.gif" width = "300" height = "300">
@@ -16,3 +16,5 @@
 - Since im not sure between academia and corporate so this hopefully also gives me perfect exposure for both
 
 ## List of interesting Kaggle Datasets
+- I don't particularly like a Kaggle dataset yet but I've been working on scraping scorecard data for all test matches in cricket. I want to use that data for multiple analytical pieces - comparing batsmen across different generations, creating a universal timeless ranking system, testing a hypothesis like the left right batting advantage,etc.
+- I am particularly interested in computer vision datasets, especially a dataset in the medical industry such as cancer or brain tumours for example.
