@@ -18,3 +18,4 @@
 ## List of interesting Kaggle Datasets
 - I don't particularly like a Kaggle dataset yet but I've been working on scraping scorecard data for all test matches in cricket. I want to use that data for multiple analytical pieces - comparing batsmen across different generations, creating a universal timeless ranking system, testing a hypothesis like the left right batting advantage,etc.
 - I am particularly interested in computer vision datasets, especially a dataset in the medical industry such as cancer or brain tumours for example.
+- I want to use Amazon stock data to be able to create a prediction system for when to invest in the stock.
